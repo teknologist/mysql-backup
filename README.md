@@ -1,6 +1,6 @@
 # mysql-backup
 
-FORK of https://github.com/teknologist/mysql-backup to enable backup on real mysql server
+FORK of https://github.com/deitch/mysql-backup to enable backup on real mysql server
 ## Overview
 mysql-backup is a simple way to do MySQL database backups and restores when the database is running in a container.
 
